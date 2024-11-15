@@ -10,7 +10,7 @@
         }  
         
         #rabbits-info-heading {
-            background-color: purple;
+         background-color: purple;
         }
         
         p {
